@@ -9,11 +9,11 @@ Chooses the best plan out of twenty based on profit that it gives tutor.
 
 **Pros:** 
 
-*It generates really good timetable
+* It generates really good timetable
 
 **Cons:** 
 
-*The code is little mess, need refactoring and must be better designed with design patterns.
+* The code is little mess, need refactoring and must be better designed with design patterns.
 
 **Improvements to be done in future:** more flexible architecture with design patterns, use SQLite to work with data, GUI based on Qt library
 
@@ -36,20 +36,20 @@ server communicate using authorial binary protocol about the size of 14 bytes.
 * Protected from wrong mathematical results.
 
 **Cons:** 
-*Client is not protected from exception errors(i.e. user type string of characters instead of number)
+* Client is not protected from exception errors(i.e. user type string of characters instead of number)
 
 ### UDP Multithreaded Server - Text Protocol (C#)
 The client-server architecture program allows three clients(multiple clients can try, but only three can play) to play the guessing number with time limit. 
 
 **Pros:** 
-*Every 10 seconds sends information of how much time is left
-*Retransmission of lost datagrams
+* Every 10 seconds sends information of how much time is left
+* Retransmission of lost datagrams
 
 **Cons:** 
-*Buggy after first game
+* Buggy after first game
 
 
 ## IDE
 
-*Microsoft Visual Studio 2015
+* Microsoft Visual Studio 2015
 
